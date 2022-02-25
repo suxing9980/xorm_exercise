@@ -1,0 +1,2 @@
+[xorm] [warn]  2022/02/24 09:32:57.326073 Table user column group_id db type is VARCHAR(255), struct type is BIGINT(20)
+[xorm] [warn]  2022/02/24 09:32:57.326073 Table user column type_id db type is VARCHAR(255), struct type is BIGINT(20)
